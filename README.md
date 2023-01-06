@@ -1,4 +1,4 @@
-![Social Banner](https://raw.githubusercontent.com/engnadeau/engnadeau/main/nicholas.jpg)
+![Social Banner](https://raw.githubusercontent.com/engnadeau/engnadeau/master/nicholas.jpg)
 
 # Hi, I'm [Nicholas](https://nadeauinnovations.com/)👋
 
