@@ -6,8 +6,6 @@
 
 Insights and news focused on building innovative technologies, new products, and high-performance teams in startups and agile businesses. 🚀
 
-👉 [Subscribe now!]() 👈
-
 ## WHAT I DO 🤖
 
 - [Fractional CTO](https://nadeauinnovations.com/services/#fractional-cto)
