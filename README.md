@@ -2,13 +2,13 @@
 
 # Hi, I'm [Nicholas](https://nadeauinnovations.com/)👋
 
-## SUBSCRIBE TO MY NEWSLETTER
+## [SUBSCRIBE TO MY NEWSLETTER](https://engnadeau.substack.com/) 👈
 
 Insights and news focused on building innovative technologies, new products, and high-performance teams in startups and agile businesses. 🚀
 
-👉 [Subscribe now!](https://engnadeau.substack.com/) 👈
+👉 [Subscribe now!]() 👈
 
-## WHAT I DO
+## WHAT I DO 🤖
 
 - [Fractional CTO](https://nadeauinnovations.com/services/#fractional-cto)
 - [Speaking](https://nadeauinnovations.com/services#speaking)
@@ -16,7 +16,7 @@ Insights and news focused on building innovative technologies, new products, and
 - [Products](https://nadeauinnovations.com/products)
 - [Newsletter](https://engnadeau.substack.com/)
 
-## VARIA
+## VARIA 🚀
 
 - [About](https://nadeauinnovations.com/about)
 - [Blog](https://nadeauinnovations.com/post)
