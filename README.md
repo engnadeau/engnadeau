@@ -1,16 +1,27 @@
 # Nicholas Nadeau, Ph.D., P.Eng.
 
-🚀 **Founder of [Transcension AI](https://transcension.ai/)**  
+I began in biomedical design, developing surgical robots, brain implants, and cognitive neuroscience imaging and stimulation devices. 
+This foundation led me to engineering leadership at AON3D (YC W17), where we built high-performance 3D printers for aerospace and defence. 
+Seeing parts created by our systems end up on the International Space Station and even the Moon is a legacy I’m incredibly proud of.
 
-Building cutting-edge AI models, tools, platforms, and products for robotics, drones, and intelligent systems. Transforming operational data into actionable insights for industries like Industry 4.0, security, defence, agtech, and manufacturing.  
+Later, as CTO of 1X (formerly Halodi Robotics), I led teams pioneering humanoid robots for security applications and human-robot collaboration. 
+From AI development to hardware engineering, we tackled the real-world deployment of robots in high-stakes environments. 
+These experiences reinforced my belief in the potential of robotics and AI to reshape industries and interactions.
 
-Passionate about enabling businesses to extract value from data through scalable AI solutions and hybrid human-AI collaboration.
+My journey then brought me into startup advisory and leadership. 
+I founded a fractional CTO consultancy, Nadeau Innovations, collaborating with hard-tech startups and corporate innovation teams. 
+When SmartOne.ai acquired this consultancy, I joined as CTO to lead AI-driven data transformation during the global AI boom.
 
-## About Me
+I founded Transcension AI, focusing on expert consulting engagements in AI and emerging technologies and technical due diligence for VC investments. 
+I’ve also co-founded a stealth startup dedicated to placing data sovereignty in the hands of individuals and fueling the next generation of ethically sourced, high-quality AI data. 
+In parallel, I serve as Co-Founder of the AI Salon’s Montréal Chapter, connecting Québec’s AI startups with global investors to drive funding, collaboration, and growth.
 
-I’m an AI and tech innovator with a Ph.D. in AI, robotics, and engineering, focused on creating practical, high-impact solutions that redefine what’s possible in AI, data, and emerging tech. As an advisor and serial CTO, I’ve led significant advancements across AI-driven applications, pushing the boundaries of human-AI collaboration.  
+Mentorship remains close to my heart. 
+Whether through programs like Creative Destruction Lab or Next AI, I love working with founders and emerging talent, helping shape the next wave of tech innovation. 
+I’ve also been humbled to be recognized within my local startup community for my contributions.
 
-Empowering startups, advancing innovation, and investing in transformative ideas, I work with teams to deliver scalable solutions that bridge the gap between cutting-edge technology and real-world impact.  
+With a Ph.D. in robotics and AI, my passion lies in creating systems that amplify human potential—through physical robots or AI agents. 
+Let’s connect if you share a vision for transforming how humans and intelligent systems collaborate—I’m always excited to meet people working on bold ideas.
 
 ## Links
 
@@ -19,9 +30,3 @@ Empowering startups, advancing innovation, and investing in transformative ideas
 - 📬 [**Newsletter**](https://engnadeau.substack.com/)  
 - 🛠️ [**GitHub Projects**](https://github.com/engnadeau)
 - 🤗 [**Personal Site**](https://nicholasnadeau.com/)
-
-## Expertise  
-
-- **AI & Robotics**: Computer Vision, Predictive Maintenance, Embedded Systems, Real-Time Data Insights.  
-- **Industry Focus**: Industry 4.0, Mining, Manufacturing, Security, AgTech, Construction, and Public Works.  
-- **Data-Driven Solutions**: Specializing in transforming raw operational data into actionable intelligence through scalable AI platforms.  
